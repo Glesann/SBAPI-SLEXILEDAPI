@@ -1,7 +1,7 @@
 # 一个也很适合中国宝宝体质的EXILED框架API 
  
 ## 食用方法
-### RuelHint(基于JBAPI)
+### RuelHint(基于RueI与JBAPI)
 首先，你需要先在你服务器内安装[Ruel](https://github.com/Ruemena/RueI)
 
 SBAPI提供了两种Hint，RueIHint与MapRueIHint
