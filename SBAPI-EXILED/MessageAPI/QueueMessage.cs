@@ -16,6 +16,7 @@ namespace SBAPI.MessageAPI
         public static Dictionary<int, CoroutineHandle> QueueHintCoroutine = new Dictionary<int, CoroutineHandle>();
         public static Dictionary<int, Queue<string>> QueueHintMsg = new Dictionary<int, Queue<string>>();
         public static Dictionary<int, HintPox> QueueIdPox = new Dictionary<int, HintPox>();
+        public static Dictionary<int, int> QueueIdLine = new Dictionary<int, int>();
         public static Dictionary<string, int> QueueTimer = new Dictionary<string, int>();
         public static int msgCount = 0;
         /// <summary>
@@ -25,13 +26,13 @@ namespace SBAPI.MessageAPI
         /// <param name="msg">消息内容</param>
         /// <param name="time">消息展示时间</param>
         /// <param name="line">消息展示的高度</param>
-        public static void AddQueueHint(this int id, string msg, int time, int line)
+        public static void AddQueueHint(this int id, string msg, int time)
         {
             msgCount++;
             msg = $"<size=60%>{msg}</size><size=0.01%>{msgCount}</size>";
             QueueHintMsg[id].Enqueue(msg);
             QueueTimer[msg] = time;
-            QueueHintCoroutine[id] = Timing.RunCoroutine(QueueHint(id, line, QueueIdPox[id]));
+            QueueHintCoroutine[id] = Timing.RunCoroutine(QueueHint(id, QueueIdLine[id], QueueIdPox[id]));
 
         }
         /// <summary>
@@ -44,6 +45,7 @@ namespace SBAPI.MessageAPI
         {
             QueueHintMsg[id] = new Queue<string>();
             QueueIdPox[id] = hintPox;
+            QueueIdLine[id] = line;
             QueueHintCoroutine[id] = Timing.RunCoroutine(QueueHint(id, line, hintPox));
         }
         /// <summary>
@@ -62,6 +64,8 @@ namespace SBAPI.MessageAPI
             }
 
         }
+
+
 
         
         private static IEnumerator<float> QueueHint(int id, int line, HintPox hintPox)

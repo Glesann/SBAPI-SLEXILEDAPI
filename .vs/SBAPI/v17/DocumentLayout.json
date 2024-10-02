@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\messageapi\\queuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|D:\\SBAPI-SLEXILEDAPI\\sbapi-exiled\\uiapi\\uihint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\uiapi\\uihint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|D:\\SBAPI-SLEXILEDAPI\\sbapi-exiled\\hintapi\\rueihints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\hintapi\\rueihints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|d:\\sbapi-slexiledapi\\sbapi-exiled\\hintapi\\hintpox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|D:\\SBAPI-SLEXILEDAPI\\sbapi-exiled\\uiapi\\uihint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\uiapi\\uihint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|D:\\SBAPI-SLEXILEDAPI\\sbapi-exiled\\hintapi\\hintpox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\hintapi\\hintpox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,18 +50,17 @@
               "RelativeToolTip": "SBAPI-EXILED\\HintAPI\\HintPox.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T09:04:52.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T09:04:52.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RueIHints.cs",
               "DocumentMoniker": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\HintAPI\\RueIHints.cs",
               "RelativeDocumentMoniker": "SBAPI-EXILED\\HintAPI\\RueIHints.cs",
               "ToolTip": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\HintAPI\\RueIHints.cs",
               "RelativeToolTip": "SBAPI-EXILED\\HintAPI\\RueIHints.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAgwDwAAAAVAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T07:21:13.276Z",
               "EditorCaption": ""
@@ -76,12 +75,11 @@
               "RelativeToolTip": "SBAPI-EXILED\\RoleCassieAPI\\RadioCassie.cs",
               "ViewState": "AQIAAKEAAAAAAAAAAAAwwAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T07:18:02.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T07:18:02.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UIHint.cs",
               "DocumentMoniker": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\UIAPI\\UIHint.cs",
               "RelativeDocumentMoniker": "SBAPI-EXILED\\UIAPI\\UIHint.cs",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "SBAPI-EXILED\\UIAPI\\UIHint.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:48:25.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T15:48:25.761Z"
             },
             {
               "$type": "Document",
@@ -100,7 +97,7 @@
               "RelativeDocumentMoniker": "SBAPI-EXILED\\MessageAPI\\QueueMessage.cs",
               "ToolTip": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\MessageAPI\\QueueMessage.cs",
               "RelativeToolTip": "SBAPI-EXILED\\MessageAPI\\QueueMessage.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBsAAAAzAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T15:46:50.176Z",
               "EditorCaption": ""
