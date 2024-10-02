@@ -6,12 +6,12 @@
 
 SBAPI提供了两种Hint，RueIHint与MapRueIHint
 
-· ***RuelHint***  
+· ***RueIHint***  
 
 ``` csharp
 using SBAPI.HintAPI;
 
-player.RuelHint(400, "Hello World", 10);
+player.RueIHint(400, "Hello World", 10);
 ```
 特点：把Hint钉死在这个位置  
 参数：位置，文本，时间
@@ -61,22 +61,45 @@ public void OnPlayerLeft(LeftEventArgs ev)
 
 ### 消息队列
 
-API还提供了一个队列消息展示的方法和一个移除队列消息组的方法
+API还提供了一个增加消息队列组的方法，一个移除消息队列组的方法，一个添加消息到队列组的方法
 
-· ***AddQueueHint***  
+· ***AddQueue***  
 
 ``` csharp
 using SBAPI.MessageAPI;
 
-HintPox.right.AddQueueHint(1, "这是第一条消息", 10, 800);
+HintPox.right.AddQueue(1, 800);
 ```
-
-· ***RemoveQueueHint***  
+参数：消息队列组ID，行高
+· ***RemoveQueue***  
 
 ``` csharp
 using SBAPI.MessageAPI;
 
 1.RemoveQueueHint();
 ```
+· ***AddQueueHint***  
+
+``` csharp
+using SBAPI.MessageAPI;
+
+1.AddQueueHint("第一条消息", 10);
+```
+参数：消息内容，时间
 特点：将消息按照加入顺序显示出来，可以设置多个队列消息组互不干扰  
-参数：消息队列组ID，文本，该条消息的显示时间， 文本显示位置
+
+### 自定义角色死亡广播· ***By Xiuer***  
+
+API还提供了一个自定义角色死亡后的Cassie广播提示
+· ***RemoveQueue***  
+
+``` csharp
+using SBAPI.RoleCassieAPI;
+
+ev.DamageHandler.CassiePlus("scp 1 1 4 5 1 4", "SCP-114514");
+```
+
+
+参数：Cassie广播内容，Cassie广播显示内容
+特点：便于进行插件角色的Cassie配置。如果你需要根据死亡原因设置广播，那么这项功能很适合你  
+
