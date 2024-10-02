@@ -88,9 +88,10 @@ using SBAPI.MessageAPI;
 参数：消息内容，时间
 特点：将消息按照加入顺序显示出来，可以设置多个队列消息组互不干扰  
 
-### 自定义角色死亡广播· ***By Xiuer***  
+### 自定义角色死亡广播 ***By Xiuer***  
 
 API还提供了一个自定义角色死亡后的Cassie广播提示
+
 · ***RemoveQueue***  
 
 ``` csharp
