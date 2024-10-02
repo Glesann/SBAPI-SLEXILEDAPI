@@ -105,3 +105,4 @@ ev.DamageHandler.CassiePlus("scp 1 1 4 5 1 4", "SCP-114514");
 参数：Cassie广播内容，Cassie广播显示内容  
 特点：便于进行插件角色的Cassie配置。如果你需要根据死亡原因设置广播，那么这项功能很适合你  
 
+有问题请提交issue或联系QQ 3415611714😭
