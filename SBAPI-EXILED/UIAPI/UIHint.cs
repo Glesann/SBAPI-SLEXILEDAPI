@@ -11,8 +11,8 @@ namespace SBAPI.UIAPI
 {
     public static class UIHint
     {
-        public static Dictionary<Player, CoroutineHandle> _playerInfoDisplayerCoroutine = new Dictionary<Player, CoroutineHandle>();
-        public static IEnumerator<float> PlayerInfoDisplay(this Player p, string msg)
+        private static Dictionary<Player, CoroutineHandle> _playerInfoDisplayerCoroutine = new Dictionary<Player, CoroutineHandle>();
+        private static IEnumerator<float> PlayerInfoDisplay(this Player p, string msg)
         {
             while (true)
             {

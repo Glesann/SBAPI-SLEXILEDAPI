@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\SBAPI_2\\",
+  "WorkspaceRootPath": "D:\\SBAPI-SLEXILEDAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|d:\\github\\sbapi_2\\sbapi-exiled\\messageapi\\queuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|d:\\sbapi-slexiledapi\\sbapi-exiled\\messageapi\\queuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\messageapi\\queuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|d:\\github\\sbapi_2\\sbapi-exiled\\rolecassieapi\\radiocassie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\rolecassieapi\\radiocassie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|d:\\github\\sbapi_2\\sbapi-exiled\\hintapi\\rueihints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\hintapi\\rueihints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI-EXILED.csproj|D:\\GitHub\\SBAPI_2\\sbapi-exiled\\hintapi\\rueihints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI-EXILED.csproj|solutionrelative:sbapi-exiled\\hintapi\\rueihints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|D:\\GitHub\\SBAPI_2\\sbapi-exiled\\uiapi\\uihint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|D:\\SBAPI-SLEXILEDAPI\\sbapi-exiled\\uiapi\\uihint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\uiapi\\uihint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI-EXILED.csproj|D:\\GitHub\\SBAPI_2\\sbapi-exiled\\hintapi\\hintpox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|D:\\SBAPI-SLEXILEDAPI\\sbapi-exiled\\hintapi\\rueihints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\hintapi\\rueihints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|d:\\sbapi-slexiledapi\\sbapi-exiled\\hintapi\\hintpox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\hintapi\\hintpox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI-EXILED.csproj|D:\\SBAPI-SLEXILEDAPI\\sbapi-exiled\\hintapi\\hintpox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI-EXILED.csproj|solutionrelative:sbapi-exiled\\hintapi\\hintpox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|D:\\SBAPI-SLEXILEDAPI\\sbapi-exiled\\rolecassieapi\\radiocassie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI.csproj|solutionrelative:sbapi-exiled\\rolecassieapi\\radiocassie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI-EXILED.csproj|D:\\SBAPI-SLEXILEDAPI\\sbapi-exiled\\hintapi\\rueihints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75057E9C-5EB3-4DD4-B587-74B6F7B7945C}|SBAPI-EXILED\\SBAPI-EXILED.csproj|solutionrelative:sbapi-exiled\\hintapi\\rueihints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,44 +41,53 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HintPox.cs",
+              "DocumentMoniker": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\HintAPI\\HintPox.cs",
+              "RelativeDocumentMoniker": "SBAPI-EXILED\\HintAPI\\HintPox.cs",
+              "ToolTip": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\HintAPI\\HintPox.cs",
+              "RelativeToolTip": "SBAPI-EXILED\\HintAPI\\HintPox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:04:52.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RueIHints.cs",
-              "DocumentMoniker": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\HintAPI\\RueIHints.cs",
+              "DocumentMoniker": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\HintAPI\\RueIHints.cs",
               "RelativeDocumentMoniker": "SBAPI-EXILED\\HintAPI\\RueIHints.cs",
-              "ToolTip": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\HintAPI\\RueIHints.cs",
+              "ToolTip": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\HintAPI\\RueIHints.cs",
               "RelativeToolTip": "SBAPI-EXILED\\HintAPI\\RueIHints.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAABiAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwDwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T07:21:13.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "RadioCassie.cs",
-              "DocumentMoniker": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\RoleCassieAPI\\RadioCassie.cs",
+              "DocumentMoniker": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\RoleCassieAPI\\RadioCassie.cs",
               "RelativeDocumentMoniker": "SBAPI-EXILED\\RoleCassieAPI\\RadioCassie.cs",
-              "ToolTip": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\RoleCassieAPI\\RadioCassie.cs",
+              "ToolTip": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\RoleCassieAPI\\RadioCassie.cs",
               "RelativeToolTip": "SBAPI-EXILED\\RoleCassieAPI\\RadioCassie.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAwwAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T07:18:02.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "UIHint.cs",
-              "DocumentMoniker": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\UIAPI\\UIHint.cs",
+              "DocumentMoniker": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\UIAPI\\UIHint.cs",
               "RelativeDocumentMoniker": "SBAPI-EXILED\\UIAPI\\UIHint.cs",
-              "ToolTip": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\UIAPI\\UIHint.cs",
+              "ToolTip": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\UIAPI\\UIHint.cs",
               "RelativeToolTip": "SBAPI-EXILED\\UIAPI\\UIHint.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAmAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T15:48:25.761Z",
               "EditorCaption": ""
@@ -83,22 +96,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "QueueMessage.cs",
-              "DocumentMoniker": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\MessageAPI\\QueueMessage.cs",
+              "DocumentMoniker": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\MessageAPI\\QueueMessage.cs",
               "RelativeDocumentMoniker": "SBAPI-EXILED\\MessageAPI\\QueueMessage.cs",
-              "ToolTip": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\MessageAPI\\QueueMessage.cs",
+              "ToolTip": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\MessageAPI\\QueueMessage.cs",
               "RelativeToolTip": "SBAPI-EXILED\\MessageAPI\\QueueMessage.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAADMAAAAQAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T15:46:50.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "RueIHints.cs",
-              "DocumentMoniker": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\HintAPI\\RueIHints.cs",
+              "DocumentMoniker": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\HintAPI\\RueIHints.cs",
               "RelativeDocumentMoniker": "SBAPI-EXILED\\HintAPI\\RueIHints.cs",
-              "ToolTip": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\HintAPI\\RueIHints.cs",
+              "ToolTip": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\HintAPI\\RueIHints.cs",
               "RelativeToolTip": "SBAPI-EXILED\\HintAPI\\RueIHints.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "HintPox.cs",
-              "DocumentMoniker": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\HintAPI\\HintPox.cs",
+              "DocumentMoniker": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\HintAPI\\HintPox.cs",
               "RelativeDocumentMoniker": "SBAPI-EXILED\\HintAPI\\HintPox.cs",
-              "ToolTip": "D:\\GitHub\\SBAPI_2\\SBAPI-EXILED\\HintAPI\\HintPox.cs",
+              "ToolTip": "D:\\SBAPI-SLEXILEDAPI\\SBAPI-EXILED\\HintAPI\\HintPox.cs",
               "RelativeToolTip": "SBAPI-EXILED\\HintAPI\\HintPox.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
