@@ -23,7 +23,7 @@ using SBAPI.Hint;
 HintPox.right.MapRueIHint(800, "Hello World"， 800);
 //其中枚举成员right，center，left为hint的显示位置
 ```
-特点：  把Hint钉死在这个位置的全地图版本
+特点：把Hint钉死在这个位置的全地图版本  
 参数：位置，文本，时间
 
 ### 自定义UI
@@ -71,6 +71,7 @@ using SBAPI.MessageAPI;
 HintPox.right.AddQueue(1, 800);
 ```
 参数：消息队列组ID，行高
+
 · ***RemoveQueue***  
 
 ``` csharp
@@ -85,7 +86,7 @@ using SBAPI.MessageAPI;
 
 1.AddQueueHint("第一条消息", 10);
 ```
-参数：消息内容，时间
+参数：消息内容，时间  
 特点：将消息按照加入顺序显示出来，可以设置多个队列消息组互不干扰  
 
 ### 自定义角色死亡广播 ***By Xiuer***  
@@ -101,6 +102,6 @@ ev.DamageHandler.CassiePlus("scp 1 1 4 5 1 4", "SCP-114514");
 ```
 
 
-参数：Cassie广播内容，Cassie广播显示内容
+参数：Cassie广播内容，Cassie广播显示内容  
 特点：便于进行插件角色的Cassie配置。如果你需要根据死亡原因设置广播，那么这项功能很适合你  
 
