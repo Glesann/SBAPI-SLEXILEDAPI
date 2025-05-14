@@ -4,27 +4,43 @@
 ### RuelHint(基于RueI与JBAPI)
 首先，你需要先在你服务器内安装[Ruel](https://github.com/Ruemena/RueI)
 
-SBAPI提供了两种Hint，RueIHint与MapRueIHint
+SBAPI提供了两个框架的Hint调用方法，RueI与HintServiceMeow
 
 · ***RueIHint***  
 
 ``` csharp
-using SBAPI.HintAPI;
+using SBAPI.HintAPI.RueIAPI;
 
-player.RueIHint(400, "Hello World", 10);
+player.RueIHint(400, 10, "Hello World");
 ```
-特点：把Hint钉死在这个位置  
-参数：位置，文本，时间
+参数：位置，时间，文本
 
 · ***MapRueIHint***
 ``` csharp
-using SBAPI.Hint;
+using SBAPI.HintAPI.RueIAPI;
 
 HintPox.right.MapRueIHint(800, "Hello World"， 800);
+//其中枚举成员right，center，left为hint的显示位置(文本对齐方式)
+```
+参数：位置，时间，文本
+
+· ***MeowHint***  
+
+``` csharp
+using SBAPI.HintAPI.HintServiceMeowAPI;
+
+player.MeowHint(400, 10, "Hello World");
+```
+参数：位置，时间，文本
+
+· ***MapMeowHint***
+``` csharp
+using SBAPI.Hint.HintAPI.HintServiceMeowAPI;
+
+HintServiceMeow.Core.Enum.HintAlignment.Center.MapMeowHint(800, 10, "Hello World");
 //其中枚举成员right，center，left为hint的显示位置
 ```
-特点：把Hint钉死在这个位置的全地图版本  
-参数：位置，文本，时间
+参数：位置，时间，文本
 
 ### 自定义UI
 
