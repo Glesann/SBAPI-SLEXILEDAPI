@@ -1,6 +1,6 @@
 ﻿using Exiled.API.Features;
 using MEC;
-using SBAPI.HintAPI;
+using SBAPI.HintAPI.RueIAPI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
