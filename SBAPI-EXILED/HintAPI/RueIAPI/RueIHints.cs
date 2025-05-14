@@ -13,8 +13,9 @@ namespace SBAPI.HintAPI.RueIAPI
     public static class RueIHints
     {
         /// <summary>
-        /// 显示全局Hint但是不覆盖
+        /// 为所有玩家显示Hint（RueI）
         /// </summary>
+        /// <param name="mapPox">地图显示位置（文本对其方式）</param>
         /// <param name="time">时长</param>
         /// <param name="pos">坐标(Y)</param>
         /// <param name="message">信息</param>
@@ -27,7 +28,7 @@ namespace SBAPI.HintAPI.RueIAPI
         }
 
         /// <summary>
-        /// 显示Hint但是不覆盖
+        /// 为玩家显示Hint（RueI）
         /// </summary>
         /// <param name="player">目标</param>
         /// <param name="time">时长</param>
