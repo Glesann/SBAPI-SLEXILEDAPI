@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SBAPI.HintAPI
+namespace SBAPI.HintAPI.RueIAPI
 {
     public static class RueIHints
     {
